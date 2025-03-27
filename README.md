@@ -12,7 +12,7 @@ Paste the script into your directory.
 
 Run: `chmod +x /path/to/this/script`
 
-Execute: `bash /path/to/this/script /path/to/logfile
+Execute: `bash /path/to/this/script /path/to/logfile`
 
 # Project Link
 https://roadmap.sh/projects/nginx-log-analyser
